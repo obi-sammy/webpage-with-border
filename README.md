@@ -1,4 +1,4 @@
-**Link to project:**[link to project](https://profound-chaja-b22bbe.netlify.app/))
+**Link to project:**[link to project](https://profound-chaja-b22bbe.netlify.app/)
 
 ## Description:
 To make UI for a webpage with a lot of borders
