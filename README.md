@@ -7,6 +7,6 @@ To make UI for a webpage with a lot of borders
 ## Areas for Improvement :
 - [ ] Remove scrollbar and add functionality that uses arrow to scroll
 - [ ] Add animation
-- [X] Fix issues at screensize 500px to 767px
+- [x] Fix issues at screensize 500px to 767px
 - [ ] Make hamburger in mobile screens functional
 - [ ] Add better images where needed
